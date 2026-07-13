@@ -6,7 +6,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,cpp,cs,py,godot,unity,ts,react,vue,supabase,postgres,mongo,docker,git&theme=dark" alt="Tech Stack" />
   </a>
-<br>
+<br><br>
   <!-- STATS (AVEC CONTOURS ACTIVÉS) -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 20px;">
     <a href="https://github.com/MoffysDev">

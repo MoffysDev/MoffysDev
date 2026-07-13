@@ -8,13 +8,13 @@
   </a>
   <br>
 
-  <!-- TES STATS -->
+<!-- TES STATS -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://github.com/MoffysDev">
-      <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=MoffysDev&bg_color=00000000&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&show_icons=true" alt="Stats" />
+      <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=MoffysDev&bg_color=00000000&hide_border=true&title_color=F5F5DC&icon_color=F5F5DC&text_color=e0dcd3&show_icons=true" alt="Stats" />
     </a>
     <a href="https://github.com/MoffysDev">
-      <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MoffysDev&layout=compact&langs_count=8&card_width=320&bg_color=00000000&hide_border=true&title_color=00F2FE&text_color=c9d1d9" alt="Top Langs" />
+      <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MoffysDev&layout=compact&langs_count=8&card_width=320&bg_color=00000000&hide_border=true&title_color=F5F5DC&text_color=e0dcd3" alt="Top Langs" />
     </a>
   </div>
 

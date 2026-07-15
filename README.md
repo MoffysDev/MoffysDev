@@ -1,6 +1,6 @@
 <div align="center">
   <!-- TON GIF EN HAUT -->
-  <img src="https://cdn.discordapp.com/attachments/1390992674382811312/1526796516239478894/GIF2.gif?ex=6a58538f&is=6a57020f&hm=5a909a5a9f219ebf5322c8d00aaa8ccc8bf775c448e85659ec8be75d84dfedfc&" alt="Header GIF" height="125px" />
+  <img src="https://cdn.discordapp.com/attachments/1390992674382811312/1526802620273131550/MyFirstGif.gif?ex=6a58593f&is=6a5707bf&hm=2677d16b8e4a7e49d89b5f8c52953d141e9b98cac7a0d0f94b86d003c1076bdf&" alt="Header GIF" height="125px" />
 <br>
   <!-- TECH STACK -->
   <a href="https://skillicons.dev">
